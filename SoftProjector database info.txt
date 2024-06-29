@@ -1,0 +1,60 @@
+Table names:
+
+Announcements
+sqlite_sequence
+BibleBooks
+BibleVerse
+BibleVersions
+Media
+Settings
+SlideShows
+Slides
+Songbooks
+Songs
+ThemeAnnounce
+ThemeBible
+ThemePassive
+ThemeSong
+Themes
+
+Column names in Announcement:
+
+id
+title
+text
+usePrivate
+useAuto
+loop
+slideTime
+useBackground
+backgoundPath
+font
+color
+alignment
+
+Id of sunday announcements is 7
+
+Announce 1
+Воскресное служение!
+Sunday service!
+06/09/24 12:00pm - 2:00p
+
+Вечернее Воскресное служение
+Evening Sunday Service
+06/02/24 6:00pm - 8:00pm
+
+Вторник - Спевка и Молитва!
+Tuesday - Choir and Prayer!
+06/04/24 7:00pm - 9:00pm
+
+Пятница - Молитвенное служение/Детская Библейская школа
+Friday - Prayer service/Kids Bible school!
+06/07/24 7:00pm - 9:00pm
+
+Announce 2
+Церковь Благодать Спасения 
+(Grace of Salvation Church)
+
+05-19-2024
+Сбор
+$1,307.00
